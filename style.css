@@ -66,16 +66,16 @@
       }
       @media (max-width:768px) {
          body{
-            font-size:18px;
+            font-size:25px;
          }
       }
       @media (max-width:1024px) {
          body{
-            font-size:20px;
+            font-size:30px;
          }
       }
       @media (max-width:1440px) {
          body{
-            font-size:24px;
+            font-size:35px;
          }
       }
