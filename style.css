@@ -61,23 +61,23 @@
          font-size:1rem;
          padding:5%;
       }
-      @media (max-width:480px) {
-         body{
-            font-size:14px;
+      @media (min-width:30rem) {
+         .link-social a{
+            font-size:1rem;
          }
       }
-      @media (max-width:768px) {
-         body{
-            font-size:18px;
+      @media (min-width:48rem) {
+         .link-social a{
+            font-size:1.125rem;
          }
       }
-      @media (max-width:1024px) {
-         body{
-            font-size:20px;
+      @media (min-width:64rem) {
+         .link-social a{
+            font-size:1.25rem;
          }
       }
-      @media (max-width:1440px) {
-         body{
-            font-size:25px;
+      @media (min-width:90rem) {
+         .link-social a{
+            font-size:1.5rem;
          }
       }
